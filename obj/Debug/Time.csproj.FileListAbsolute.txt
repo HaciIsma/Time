@@ -1,0 +1,17 @@
+C:\Users\HaciIsma\source\repos\Time\Time\bin\Debug\Time.exe.config
+C:\Users\HaciIsma\source\repos\Time\Time\bin\Debug\Time.exe
+C:\Users\HaciIsma\source\repos\Time\Time\bin\Debug\Time.pdb
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\Time.csprojAssemblyReference.cache
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\MainWindow.g.cs
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\App.g.cs
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\Time_MarkupCompile.cache
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\Time_MarkupCompile.lref
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\MainWindow.baml
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\Time.g.resources
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\Time.Properties.Resources.resources
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\Time.csproj.GenerateResource.cache
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\Time.exe
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\Time.pdb
+C:\Users\HaciIsma\source\repos\Time\Time\obj\Debug\Time.csproj.Fody.CopyLocal.cache
